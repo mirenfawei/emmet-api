@@ -1,5 +1,5 @@
 {
-    "name": "administrator/emmet",
+    "name": "emmet/emmet-api",
     "description": "微信进件",
     "autoload":{
          "emmet\\api\\":"emmet/"
