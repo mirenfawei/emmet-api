@@ -1,0 +1,16 @@
+{
+    "name": "administrator/emmet",
+    "description": "微信进件",
+    "autoload":{
+         "emmet\\api\\":"emmet/"
+    }
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuchuang",
+            "email": "1499708869@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
