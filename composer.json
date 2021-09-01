@@ -1,5 +1,5 @@
 {
-    "name": "emmet/emmet-api",
+    "name": "topthink/emmet-api",
     "description": "微信进件",
     "autoload":{
          "emmet\\api\\":"emmet/"
