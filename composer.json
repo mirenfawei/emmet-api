@@ -3,7 +3,7 @@
     "description": "微信进件",
     "autoload":{
          "emmet\\api\\":"emmet/"
-    }
+    },
     "license": "MIT",
     "authors": [
         {
